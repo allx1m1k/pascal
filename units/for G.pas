@@ -35,7 +35,6 @@ begin
     writeln(A[3]);
     writeln(A[4]);
     writeln(A[5]);
-{  A:= bubble(A)}
   end.
 
 Procedure bubble(var C:array  of smallint );
